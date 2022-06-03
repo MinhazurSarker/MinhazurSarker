@@ -1,4 +1,4 @@
-<img width="100%" style="border-radius:10px" src="https://minhazur.cellsweb.com/storage/app/media/MinhazuGithub.svg"/>
+<img width="100%" src="https://minhazur.cellsweb.com/storage/app/media/MinhazuGithub.svg"/>
 
 
 <br/>
@@ -10,7 +10,7 @@
 I Love To Explore New Tools And Technique To Solve Problem In Different Approach.
 </p>
 
-<hr/>
+<br/>
 
 ##  Tech Stack: 
 - ### MERN Stack (Mongodb, Express Js, React Js (Next js), Node Js)
@@ -30,8 +30,9 @@ I Love To Explore New Tools And Technique To Solve Problem In Different Approach
 <br/>
 
 ##  Sponsors: 
-<a href="https://cellsweb.com" target="_blank"><a/>
+<a href="https://cellsweb.com" target="_blank">
 <img height='50' src="https://cellsweb.com/themes/cellsweb-solutions/assets/img/logo/logo.svg"/>
+<a/>
 
 
 <br/>
