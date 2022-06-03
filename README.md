@@ -1,9 +1,9 @@
-<!-- <img width="100%" style="border-radius:10px" src="https://minhazur.cellsweb.com/storage/app/media/Minhazur.svg"/> -->
+<img width="100%" style="border-radius:10px" src="https://minhazur.cellsweb.com/storage/app/media/Minhazur.svg"/>
 <!-- ![Minhazur sarkar]() -->
-<iframe
+<!-- <iframe
   src="https://minhazur.cellsweb.com/storage/app/media/Minhazur.svg""
   style="width:100%; height:400px; border:none; border-radius:10px"
-></iframe>
+></iframe> -->
 
 <br/>
 <h2 align="center">Hi, I'm Minhazur Sarkar</h2>
