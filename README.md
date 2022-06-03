@@ -1,6 +1,9 @@
-<img src="https://minhazur.cellsweb.com/storage/app/media/Minhazur.svg"/>
+<!-- <img width="100%" style="border-radius:10px" src="https://minhazur.cellsweb.com/storage/app/media/Minhazur.svg"/> -->
 <!-- ![Minhazur sarkar]() -->
-
+<iframe
+  src="https://minhazur.cellsweb.com/storage/app/media/Minhazur.svg""
+  style="width:100%; height:400px; border:none; border-radius:10px"
+></iframe>
 
 <br/>
 <h2 align="center">Hi, I'm Minhazur Sarkar</h2>
@@ -8,7 +11,7 @@
 
 <h2 align="center"> About Me</h2>
 <p align="center">Full-Stack Developer || JavaScript Lover .
-I Love To Explore New Tools And Technique To Solve Problem In Different Approach. Passionate About Sharing Knowledge And Teach Other Some Critical Skill ,Tools And Concept Through Blog Article , Facebook/Twitter/Linkedin Post .
+I Love To Explore New Tools And Technique To Solve Problem In Different Approach.
 </p>
 
 <hr/>
