@@ -26,7 +26,7 @@ I Love To Explore New Tools And Technique To Solve Problem In Different Approach
 
 
 <br/>
-<hr/>
+
 <br/>
 
 ##  Sponsors: 
@@ -36,7 +36,7 @@ I Love To Explore New Tools And Technique To Solve Problem In Different Approach
 
 
 <br/>
-<hr/>
+
 <br/>
 <a href="https://twitter.com/Minhazur_Sarker" rel="nofollow">
 <img width="24" height="24" src="https://minhazur.cellsweb.com/storage/app/media/twitter-logo-2429.svg">
@@ -44,6 +44,3 @@ I Love To Explore New Tools And Technique To Solve Problem In Different Approach
 <a href="mailto:minhazursarker@gmail.com">
 <img width="24" height="24" src="https://minhazur.cellsweb.com/storage/app/media/gmail-logo.svg">
 </a>
-<br/>
-<hr/>
-<br/>
