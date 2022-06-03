@@ -52,4 +52,3 @@ I Love To Explore New Tools And Technique To Solve Problem In Different Approach
 <path fill="#c5221f" d="M52 51v8l20 15V48l-5.6-4.2c-5.94-4.45-14.4-.22-14.4 7.2"/>
 </svg>
 </a>
-
