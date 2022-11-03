@@ -1,4 +1,4 @@
-<img width="100%" src="https://minhazur.cellsweb.com/storage/app/media/MinhazuGithub.svg"/>
+<img width="100%" src="https://cellsweb.com/storage/app/media/minhazur/MinhazuGithub.svg"/>
 
 
 <br/>
