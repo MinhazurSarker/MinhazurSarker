@@ -1,3 +1,7 @@
+<br/>
+<h2 align="center">Note: Most of my large projects are in private repo for security purpose. Contact me personally to see them.</h2>
+<br/>
+
 <img width="100%" src="./MinhazuGithub.svg"/>
 
 
